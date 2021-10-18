@@ -18,6 +18,11 @@ The organization of this document probably seems strange. That's because it's pa
 
 #### SHARKS!!!
 
+```{r}
+# Level 4 hashtag headers allow you make tabs
+```
+
+
 ![Great white at Seal Island, South Africa. Photographer: Chris Brunskill Ltd/Corbis News via Getty Images](img/great_white.jpg)
 
 ##### Some great white shark facts (from [NatGeo Kids](https://www.natgeokids.com/uk/discover/animals/sea-life/great-white-sharks/)):
@@ -45,6 +50,13 @@ The organization of this document probably seems strange. That's because it's pa
 - Pika are of order *Lagomorpha* (which also includes rabbits)
 - Pika live in high altitude talus slopes
 - American pika are already disappearing from the Sierra Nevada
+
+#### Ring-tailed cats
+
+Here's where I want to have info on ringtails.
+
+![Ringtail cat (courtesy of VA zoo)](img/ringtail_cat.jpg) 
+
 
 ###
 
